@@ -3112,6 +3112,16 @@
 		)
 		(uuid "15b3860e-9a60-44ad-8466-9c9063700963")
 	)
+	(text "UART"
+		(exclude_from_sim no)
+		(at 101.854 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "25d26e18-54da-4453-8747-29b115443e74")
+	)
 	(text "LCD"
 		(exclude_from_sim no)
 		(at 107.696 23.368 0)
@@ -3890,7 +3900,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_Tactile_Straight_KSA0Axx1LFTR"
 			(at 25.4 17.78 0)
 			(effects
 				(font
@@ -3964,7 +3974,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 62.23 24.13 0)
 			(effects
 				(font
@@ -4097,7 +4107,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "deneyapkart:deneyapkart"
 			(at 39.37 101.6 0)
 			(effects
 				(font
@@ -4255,7 +4265,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x03_P3.50mm_Horizontal"
 			(at 116.84 49.53 0)
 			(effects
 				(font
@@ -4326,7 +4336,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x03_P3.50mm_Horizontal"
 			(at 87.63 82.55 0)
 			(effects
 				(font
@@ -4527,7 +4537,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 36.83 27.178 90)
 			(effects
 				(font
@@ -4597,7 +4607,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal"
 			(at 130.81 17.78 0)
 			(effects
 				(font
@@ -4795,7 +4805,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 59.69 49.53 0)
 			(effects
 				(font
@@ -4863,7 +4873,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 71.12 25.908 90)
 			(effects
 				(font
@@ -5126,7 +5136,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 68.58 51.308 90)
 			(effects
 				(font
@@ -5194,7 +5204,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x03_P3.50mm_Horizontal"
 			(at 90.17 50.8 0)
 			(effects
 				(font
@@ -5267,7 +5277,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 121.412 26.67 90)
 			(effects
 				(font
@@ -5532,7 +5542,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 36.83 52.578 90)
 			(effects
 				(font
@@ -5600,7 +5610,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x04_P3.50mm_Horizontal"
 			(at 104.14 22.86 0)
 			(effects
 				(font
@@ -5674,7 +5684,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_Tactile_Straight_KSA0Axx1LFTR"
 			(at 25.4 43.18 0)
 			(effects
 				(font
